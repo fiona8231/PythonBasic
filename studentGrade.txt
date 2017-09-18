@@ -1,0 +1,7 @@
+cat    145
+dog   120
+Suzy 110
+Daily 100
+Lazy 199
+Tom  98
+Call  167

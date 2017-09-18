@@ -1,0 +1,7 @@
+ Tom scored a 98
+Lazy scored a 199
+Call scored a 167
+cat scored a 145
+dog scored a 120
+Suzy scored a 110
+Daily scored a 100
